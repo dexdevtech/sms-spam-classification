@@ -42,13 +42,13 @@ This project includes all of the datasets, graphs, and notebooks that are used i
 
 ### Full Documentation File:
  
-This [document](https://github.com/Dex-Astorga/ml-spam-detection/blob/main/project_documentation.pdf) is a thorough walk through of everything you need to know to use this project. 
+This [document](https://github.com/dexdevtech/sms-spam-classification/blob/main/spam-detection-documentation.pdf) is a thorough walk through of everything you need to know to understand this project. 
 
 <br>
 
 ### Model Architecture:
 
-![Project Architecture](https://github.com/Dex-Astorga/ml-spam-detection/blob/main/project_diagram.png)
+![Project Architecture](https://github.com/dexdevtech/sms-spam-classification/blob/main/project_diagram.png?raw=true)
 
 <br>
 
@@ -61,7 +61,7 @@ This [document](https://github.com/Dex-Astorga/ml-spam-detection/blob/main/proje
 - **Version Control:** Git
 - **Development Tool:** Visual Studio Code
 - **Notebook Environment:** Jupyter Notebooks
-- **ERD Development Tool:** Lucidchart
+- **Diagram Development Tool:** Lucidchart
 
 <br>
 
@@ -71,7 +71,7 @@ This [document](https://github.com/Dex-Astorga/ml-spam-detection/blob/main/proje
 
 If you encounter a bug or have an idea for improvement:
 
-1. **Submit an Issue:** Visit the [issue tracker](https://github.com/Dex-Astorga/ml-spam-detection/issues) and create a new issue.
+1. **Submit an Issue:** Visit the [issue tracker](https://github.com/dexdevtech/sms-spam-classification/issues) and create a new issue.
 2. **Provide Details:** Clearly describe the problem or feature request.
 3. **Stay Engaged:** Check for updates on your issue.
 
@@ -90,7 +90,7 @@ Interested in contributing code? Follow these steps:
 - Maintain a polite and collaborative tone in discussions.
 - Align contributions with project goals and your vision.
 
-Feel free to reach out with questions or concerns codex1727@gmail.com
+Feel free to reach out with questions or concerns dexdevtech@gmail.com
 
 <br>
 
